@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I have always liked logical challenges, problem-solving, and transforming people's experiences for the better, so I decided to migrate to programming and do it in a more scalable way.
+
 <!--
 **douglasCajueiro/DouglasCajueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
