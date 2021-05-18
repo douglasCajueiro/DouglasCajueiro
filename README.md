@@ -2,7 +2,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=douglasCajueiro.DouglasCajueiro) -->
 
-[![Douglas Cajueiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasCajueiro&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Douglas Cajueiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasCajueiro&theme=dark)](https://github.com/douglasCajueiro)
 
 
 I have always liked logical challenges, problem-solving, and transforming people's experiences for the better, so I decided to migrate to programming and do it in a more scalable way.
