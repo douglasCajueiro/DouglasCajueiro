@@ -19,10 +19,12 @@
 Passionate about solving logic puzzles and problems and aiming to transform people's experiences for the better, I decided to become a developer and do this in a more scalable way.
 
 ---
-
+<div align="center">
+  
 **Languages and Tools:**
 
-<p align="center">
+</p>
+
 
   <div align="center">
 <!--   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>   -->  
@@ -45,7 +47,7 @@ Passionate about solving logic puzzles and problems and aiming to transform peop
 
 ---
   
-<div style="text-align: center, width: 100%, display: inline">
+<div align="center">
 
 [![Douglas Cajueiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasCajueiro&theme=dark)](https://github.com/douglasCajueiro)
 
