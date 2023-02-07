@@ -1,22 +1,17 @@
-<div align="right">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=douglasCajueiro.DouglasCajueiro)
-
-</div>  
 
 ### Hi, I'm Douglas Cajueiro
 ###### Pronouns: He/him (Ele).
 
+Passionate about solving logic puzzles and problems and aiming to transform people's experiences for the better, I decided to become a developer and do this in a more scalable way.
 
-  
-- 🌱 I'm currently learning Back-End development, with node.
+- 🔭  I am a backend developer with 1.5 years of experience working with .NET and 1 year of experience with Node JS.
 
-- 🔭 I'm currently working as Summer instructor
+- 🤔  I enjoy problem-solving and always strive to deliver high-quality solutions that meet client needs.
 
+- 🌱  When I'm not coding, I love to learn new technologies and keep up with the latest trends in the software development world.
 
 😄 I love meeting new people and leaving a smile everywhere I pass by.
-
-Passionate about solving logic puzzles and problems and aiming to transform people's experiences for the better, I decided to become a developer and do this in a more scalable way.
 
 ---
 <div align="center">
